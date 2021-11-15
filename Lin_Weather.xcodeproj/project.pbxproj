@@ -13,6 +13,7 @@
 		6E5FBA85273B5A3C00211644 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6E5FBA84273B5A3C00211644 /* Preview Assets.xcassets */; };
 		6E5FBA8E273B5BFC00211644 /* LocationHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6E5FBA8D273B5BFC00211644 /* LocationHelper.swift */; };
 		6ED3B980273B6D78008DA98E /* Weather.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6ED3B97F273B6D78008DA98E /* Weather.swift */; };
+		BF6142FE2741E8310003611F /* WeatherFetcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF6142FD2741E8310003611F /* WeatherFetcher.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6E5FBA86273B5A3C00211644 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		6E5FBA8D273B5BFC00211644 /* LocationHelper.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationHelper.swift; sourceTree = "<group>"; };
 		6ED3B97F273B6D78008DA98E /* Weather.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Weather.swift; sourceTree = "<group>"; };
+		BF6142FD2741E8310003611F /* WeatherFetcher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherFetcher.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 			isa = PBXGroup;
 			children = (
 				6E5FBA8D273B5BFC00211644 /* LocationHelper.swift */,
+				BF6142FD2741E8310003611F /* WeatherFetcher.swift */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				6ED3B980273B6D78008DA98E /* Weather.swift in Sources */,
+				BF6142FE2741E8310003611F /* WeatherFetcher.swift in Sources */,
 				6E5FBA8E273B5BFC00211644 /* LocationHelper.swift in Sources */,
 				6E5FBA80273B5A3C00211644 /* ContentView.swift in Sources */,
 				6E5FBA7E273B5A3C00211644 /* Lin_WeatherApp.swift in Sources */,

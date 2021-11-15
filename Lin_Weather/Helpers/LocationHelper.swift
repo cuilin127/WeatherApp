@@ -1,7 +1,7 @@
 //
 //  LocationHelper.swift
 //  Lin_Weather
-//
+//  Student number: 991456394
 //  Created by Lin Cui on 2021-11-09.
 //
 
